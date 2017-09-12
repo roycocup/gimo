@@ -1,0 +1,18 @@
+{
+    "name": "ubuntu/workspace",
+    "require": {
+        "adodb/adodb-php": "^5.20",
+        "nezamy/route": "^1.1"
+    },
+    "authors": [
+        {
+            "name": "roycocup",
+            "email": "rodrigo.pitta@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+          "Gimo\\": "src/"
+        }
+    }
+}
