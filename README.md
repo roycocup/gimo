@@ -1,30 +1,19 @@
-
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+## Gimo Test
 
 
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, we have created a small hello world application.
-
-1) Open the hello-world.php file
-
-2) Follow the run instructions in the file's comments
-
-3) If you want to look at the Apache logs, check out ~/lib/apache2/log
-
-And that's all there is to it! Just have fun. Go ahead and edit the code, 
-or add new files. It's all up to you! 
-
-Happy coding!
-The Cloud9 IDE team
+## Usage
+- Clone the repository https://github.com/roycocup/gimo
+- run composer install 
+- Set up your apache and point it to src/ folder (you know what a folder is dont you?)
 
 
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+## Notes
+- This was done because the machine you provided had several problems:
+    - Xammp is unable to start apache 
+    - Its hard to know where the document root is
+    - I dont know the machine and it has weird bugs
+    - No one said I was not to use a cloud service
+- Τhe guy next to me is sick... so thank you for making catch a cold for the other interviews
+- oh... I do know what json is. Thanks for the sarcastic remark on the test page. 
+- Also, to make you remember what all your jobs were on the welcoming form and then
+making you sign it so you are legally bound to the fact that the dates may differ... is just not nice. 
